@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bertrandmart1; I have lived and worked in Port-au-Prince, New-York, Boston, Hanoi and Paris.
-- 👀 I’m interested in learning C, C++, Python and Windows Internals. 
-- 🌱 I’m currently a student at ENSIBS and learning cybersecurity.
+- 👀 I love learning new things. 
+- 🌱 I’m a Sciences Po Paris graduate and a graduate from ENSIBS as a cyberdefense engineer.
 - 📫 How to reach me [@bertrandmart1](https://twitter.com/bertrandmart1) on Twitter
 
 <!---
