@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bertrandmart1; I have lived and worked in Port-au-Prince, New-York, Boston, Hanoi and Paris.
+- 👋 Hi, I’m Bertrand; I have lived and worked in Port-au-Prince, New-York, Boston, Hanoi and Paris.
 - 👀 I love learning new things. 
 - 🌱 I’m a Sciences Po Paris graduate and a graduate from ENSIBS as a cyberdefense engineer.
 - 📫 How to reach me [@bertrandmart1](https://twitter.com/bertrandmart1) on Twitter
